@@ -1,7 +1,7 @@
 streamlit
 numpy
-scipy.fftpack
+scipy
 PIL
-matplotlib.pyplot
+matplotlib
 io
 warnings
