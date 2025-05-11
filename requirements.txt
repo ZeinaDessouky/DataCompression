@@ -1,0 +1,7 @@
+streamlit
+numpy
+scipy.fftpack
+PIL
+matplotlib.pyplot
+io
+warnings
